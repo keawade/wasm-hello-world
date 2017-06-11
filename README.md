@@ -4,7 +4,7 @@
 
 ## Setup WASM Toolchain
 
-1. [Download the Portable Emscripten SDK for Linux and OS X](https://s3.amazonaws.com/mozilla-games/emscripten/releases/emsdk-portable.tar.gz)
+1. [Download the Portable Emscripten SDK for Linux and OS X.](https://s3.amazonaws.com/mozilla-games/emscripten/releases/emsdk-portable.tar.gz) (Documentation)[http://kripken.github.io/emscripten-site/index.html]
 2. `tar -xvf emsdk-portable.tar.gz`
 3. `cd emsdk-portable`
 4. `./emsdk update`
