@@ -1,0 +1,15 @@
+{
+  "name": "wasm-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:keawade/wasm-hello-world.git",
+  "author": "Keith Wade <keawade@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wasm-loader": "^1.0.0",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
